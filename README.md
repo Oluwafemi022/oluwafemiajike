@@ -14,6 +14,7 @@ Committed to delivering impactful data solutions.
 
 ##  Featured Projects:
 Blenco Superstore Anlysis
+[Blenco](https://github.com/Oluwafemi022/Blenco-superstores)
 
 
 ##  Certifications:
