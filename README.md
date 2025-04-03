@@ -21,5 +21,5 @@ Blenco Superstore Anlysis
 - Cirvee tech Academy
 
 ##  Connect with Me:
-[LinkedIn] (www.linkedin.com/in/oluwafemi-moses-ajike-96060b313) | [Email](mailto:ajikeoluwafemi022@gmail.com)
+[LinkedIn](www.linkedin.com/in/oluwafemi-moses-ajike-96060b313) | [Email](mailto:ajikeoluwafemi022@gmail.com)
   
